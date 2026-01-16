@@ -16,5 +16,3 @@ It includes **data preprocessing, model training, and evaluation**, but **no tra
 - ⚠️ The dataset is highly **imbalanced**, with very few fraud cases  
 
 ---
-
-## 📂 Project Structure
